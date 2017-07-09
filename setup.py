@@ -11,6 +11,6 @@ setup(name='NLA',
       install_requires=[
           'numpy',
           'mpmath',
-          'sys',
+          'matplotlib.pyplot'
       ],
       zip_safe=False)
